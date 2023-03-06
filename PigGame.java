@@ -11,7 +11,7 @@ public class PigGame {
         tab = pog.nextInt();
         System.out.println(tab);
 
-
+//tangina ng git di ko gets
 
     }
 
