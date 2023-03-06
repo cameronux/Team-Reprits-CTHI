@@ -12,7 +12,6 @@ public class PigGame {
         System.out.println(tab);
 
 
-
     }
 
 }
