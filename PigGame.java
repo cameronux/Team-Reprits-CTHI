@@ -1,5 +1,7 @@
 public class PigGame {
-    git int
     
+    public static void main (String []args){
+
+    }
 
 }
